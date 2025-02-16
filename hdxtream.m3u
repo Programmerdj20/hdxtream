@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Canal_1_de_Colombia_(2023).svg/revision/latest/scale-to-width-down/1000?cb=20230818220042" group-title="Colombia Premium",Canal 1
+#EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Canal_1_de_Colombia_(2023).svg/revision/latest/scale-to-width-down/1000?cb=20230818220042" group-title="Nacionales",Canal 1
 http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/906
-#EXTINF:-1 tvg-name="Canal Caracol HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1694554770562-corte-caracol-hd.webp" group-title="Colombia Premium",Canal Caracol HD
+#EXTINF:-1 tvg-name="Canal Caracol HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1694554770562-corte-caracol-hd.webp" group-title="Nacionales",Canal Caracol HD
 http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/911
-#EXTINF:-1 tvg-name="Canal RCN HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1694554838688-corte-rcn-hd.webp" group-title="Colombia Premium",Canal RCN HD
+#EXTINF:-1 tvg-name="Canal RCN HD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1694554838688-corte-rcn-hd.webp" group-title="Nacionales",Canal RCN HD
 http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/920
-#EXTINF:-1 tvg-name="WinSports" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1694546170814-winsports.webp" group-title="Colombia Premium",Win Sports
+#EXTINF:-1 tvg-name="Discovey ID" tvg-logo="http://listadepanel.ddns.net:8080/images/b15bddc96a62e8a4e8c2ef8be29c07e4.png" group-title="Premium",Discovey ID
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/976
+#EXTINF:-1 tvg-name="Discovey ID 2" tvg-logo="http://listadepanel.ddns.net:8080/images/b15bddc96a62e8a4e8c2ef8be29c07e4.png" group-title="Premium",Discovey ID 2
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/977
+#EXTINF:-1 tvg-name="Bein Sports Ñ " tvg-logo="http://listadepanel.ddns.net:8080/images/8d3c9ae4362687a0705ca9631736c123.jpg" group-title="Deportes",Bein Sports Ñ 
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/931
+#EXTINF:-1 tvg-name="DIRECTV SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",Directv Sports
+http://teerom.site:8080/live/DanielCast526552/cnwc73f37ic7iwj23/510240.ts
+#EXTINF:-1 tvg-name="Directv Sports 2" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/612.png" group-title="Deportes",Directv Sports 2
+http://teerom.site:8080/live/DanielCast526552/cnwc73f37ic7iwj23/567427.ts
+#EXTINF:-1 tvg-name="Directv Sports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1613.png" group-title="Deportes",Directv Sports +
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/211594
+#EXTINF:-1 tvg-name="Espn" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="Deportes",Espn
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/253047
+#EXTINF:-1 tvg-name="Espn 2" tvg-logo="https://c3.klipartz.com/pngpicture/176/52/sticker-png-tv-channel-icons-pack-espn2-color-thumbnail.png" group-title="Deportes",Espn 2
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/253046
+#EXTINF:-1 tvg-name="WinSports+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/WinSports2024.svg/revision/latest/scale-to-width-down/1000?cb=20240716031620&path-prefix=es" group-title="Deportes",Win Sports
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/929
+#EXTINF:-1 tvg-name="WinSports" tvg-logo="https://futbolete.com/wp-content/uploads/2020/02/win-sports-mas-online-servicio-cable-operador.jpg" group-title="Deportes",Win Sports+
 http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/1347
-#EXTINF:-1 tvg-name="WinSports+" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1738702941411-logo-win.webp" group-title="Colombia Premium",Win Sports+
+#EXTINF:-1 tvg-name="Win Sports+ 2" tvg-logo="https://diem369.com/cdn/shop/files/Win.png?v=1705024371" group-title="Deportes",Win Sports+ 2
+http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/93165
+#EXTINF:-1 tvg-name="Win Sports Online" tvg-logo="https://pbs.twimg.com/profile_images/1516439064651649026/UAIjflyA_400x400.jpg" group-title="Deportes",Win Sports Online
 http://listadepanel.ddns.net:8080/KUYFRKUFHJKGHJGH328948/sJegJk2iomsfedfedesd/29601
